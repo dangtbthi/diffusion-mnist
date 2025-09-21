@@ -1,4 +1,4 @@
-# diffusion-mnist
+# Diffusion Model on MNIST
 
 ## Project Overview
 Diffusion models are currently a leading approach in generative modeling, offering more stable training than GANs and producing higher-quality, more diverse images. This repository contains a DDPM-like (denoising diffusion probabilistic model) diffusion model  implementation on the MNIST dataset using PyTorch. The project explores the forward diffusion process (adding noise to data over timesteps) and the reverse denoising process (sampling images step by step).
