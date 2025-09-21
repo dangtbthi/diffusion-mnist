@@ -19,3 +19,4 @@ Diffusion models are currently a leading approach in generative modeling, offeri
 2. [Outlier](https://www.youtube.com/@outliier). Diffusion Models | Paper Explanation | Math Explained. [Youtube](https://youtu.be/HoKDTa5jHvg?si=VVZqbMv-soDSaooo)
 3. [Outlier](https://www.youtube.com/@outliier). Diffusion Models From Scratch | Score-Based Generative Models Explained | Math Explained. [Youtube](https://youtu.be/B4oHJpEJBAA?si=EjUQV8j6XvN4HGw1)
 4. [DeepFindr](https://www.youtube.com/@DeepFindr). Diffusion models from scratch in PyTorch. [Youtube](https://www.youtube.com/watch?v=a4Yfz2FxXiY&t=178s)
+5. PiMA The Mathematics of Generative Models online course
