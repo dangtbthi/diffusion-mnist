@@ -14,6 +14,12 @@ Diffusion models are currently a leading approach in generative modeling, offeri
 3. **Loss Function**: Mean squared error between predicted noise and true noise.  
 4. **Sampling**: Start from Gaussian noise, iteratively denoise to generate new samples.
 
+## Future Works:
+- Gaussian process and Brownian motion
+- Attention mechanisms
+- Compare and combine different backbones in the reverse process: U-Net, ResNet, Transformer.
+- Explore Diffusion-GAN. Wang, Z., Zheng, H., He, P., Chen, W., & Zhou, M. (2023). Diffusion-GAN: Training GANs with Diffusion. [arXiv:2206.02262v4](https://arxiv.org/pdf/2206.02262)
+
 ## References
 1. Ho, J., Jain, A., & Abbeel, P. (2020). Denoising Diffusion Probabilistic Models. [arXiv:2006.11239](https://arxiv.org/abs/2006.11239)
 2. [Outlier](https://www.youtube.com/@outliier). Diffusion Models | Paper Explanation | Math Explained. [Youtube](https://youtu.be/HoKDTa5jHvg?si=VVZqbMv-soDSaooo)
